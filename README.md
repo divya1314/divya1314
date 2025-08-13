@@ -1,5 +1,5 @@
 <!-- Banner Image (upload banner.png to the repo root first) -->
-![Header](https://raw.githubusercontent.com/divya1314/divya1314/main/banner.png)
+![Header](https://raw.githubusercontent.com/divya1314/divya1314/main/banner.jpeg)
 
 # 👋 Hi, I'm Divya Dharshini
 
